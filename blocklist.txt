@@ -1,0 +1,9 @@
+*.anect.com
+*.anect.cz
+*.anect.sk
+(^|\.)anect\.cz$
+(^|\.)anect\.com$
+(^|\.)anect\.sk$
+anect.com
+anect.cz
+anect.sk
